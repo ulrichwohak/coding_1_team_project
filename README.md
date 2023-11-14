@@ -23,7 +23,7 @@ Perform descriptive analytics to create a customer profile for each CardioGood F
 **Submission:**  You need to submit a Jupyter Notebook via Github Classroom.
 
 
-**Submission deadline:** 18. December 2022. (Late submission: 1 day delay -25\%, after that no points.)
+**Submission deadline:** 18. December 2023. (Late submission: 1 day delay -25\%, after that no points.)
 
 
 **Data:** The data set for this project is *cardio\_fitness.csv*.
