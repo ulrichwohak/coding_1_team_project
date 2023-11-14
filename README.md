@@ -20,9 +20,17 @@ Perform descriptive analytics to create a customer profile for each CardioGood F
 
 ## General rules
 **Submission:**  You need to submit a Jupyter Notebook via Github Classroom.
+
+
 **Submission deadline:** 18. December 2022. (Late submission: 1 day delay -25\%, after that no points.)
+
+
 **Data:** The data set for this project is *cardio\_fitness.csv*.
+
+
 **Structure:** Be concise. Do not submit an excessive amount of code/graphs. Think about the message you want to deliver and then implement it in code without producing unnecessary output.
+
+
 **Evaluation:** You will be evaluated based on the quality of your analysis, the quality of your code as well as the formatting of your final output. The final grade for this assignment is calculated in the following fashion:
 a. Quality of analysis (50\%);
 b. Quality of code (40\%); and
