@@ -33,9 +33,9 @@ Perform descriptive analytics to create a customer profile for each CardioGood F
 
 
 **Evaluation:** You will be evaluated based on the quality of your analysis, the quality of your code as well as the formatting of your final output. The final grade for this assignment is calculated in the following fashion:
-a. Quality of analysis (50\%);
-b. Quality of code (40\%); and
-c. Proper formatting (10\%).
+- Quality of analysis (50\%);
+-  Quality of code (40\%); and
+-  Proper formatting (10\%).
 
 ### Good luck!
 
