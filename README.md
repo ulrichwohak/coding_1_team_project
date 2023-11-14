@@ -1,6 +1,7 @@
 # Team project
 Submit your answers to the questions below in a Jupyter Notebook where the output is displayed. Submissions are only accepted via Github Classroom. If you would like to know how to submit assignments via Github Classroom, please see: https://www.youtube.com/watch?v=ObaFRGp_Eko
 
+## The task
 The market research team at AdRight is assigned the task to identify the profile of the typical customer for each treadmill product offered by CardioGood Fitness. The market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics. The team decides to collect data on individuals who purchased a treadmill at a CardioGoodFitness retail store during the prior three months. The data are stored in the CardioGoodFitness.csv file. The team identifies the following customer variables to study: 
 
 
